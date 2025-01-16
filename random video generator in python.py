@@ -47,6 +47,7 @@ def start_audio_and_video():
 # Создание графического интерфейса
 root = tk.Tk()
 root.title("Procedural Audio and Video Generator")
+root.geometry("320x120")  # Установка размера окна
 
 start_button = tk.Button(root, text="Start", command=start_audio_and_video)
 start_button.pack()
