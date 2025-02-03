@@ -53,7 +53,7 @@ def update_frame():
         canvas.image = frame_image  # Сохраняем ссылку для предотвращения сборки мусора
 
 def on_key_press(event):
-    if event.keysym in ['q', 'w', 'e', 'a', '', 'd']:
+    if event.keysym in ['q', 'w', 'e', 'a', 's', 'd']:
         update_frame()  # Обновление кадра при нажатии клавиш
 
 # Создание основного окна
