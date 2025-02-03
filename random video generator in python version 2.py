@@ -58,7 +58,7 @@ def on_key_press(event):
 
 # Создание основного окна
 root = tk.Tk()
-root.title("Procedural Audio and Video")
+root.title("EVP space random")
 root.geometry("320x120")
 
 start_button = tk.Button(root, text="Start", command=start_audio_and_video)
