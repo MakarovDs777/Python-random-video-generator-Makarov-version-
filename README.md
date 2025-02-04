@@ -16,3 +16,9 @@ https://github.com/user-attachments/assets/04f3ef90-ecfd-407c-b62c-eada794df370
 
 https://github.com/user-attachments/assets/39a4a849-3b0f-4f77-bd2e-0f78812fceb2
 
+# Random video generator in python (Version 5)
+
+В пятой версии я добавил возможность перемещения по кнопкам в окне, и так же сид мира который формирует карту изображений кадров, и с таблом координат.
+
+https://github.com/user-attachments/assets/7f091e8f-3e56-40a9-b91a-6a961fcfbdae
+
