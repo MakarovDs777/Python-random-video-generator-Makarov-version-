@@ -20,5 +20,4 @@ https://github.com/user-attachments/assets/39a4a849-3b0f-4f77-bd2e-0f78812fceb2
 
 В пятой версии я добавил возможность перемещения по кнопкам в окне, и так же сид мира который формирует карту изображений кадров, и с таблом координат.
 
-https://github.com/user-attachments/assets/7f091e8f-3e56-40a9-b91a-6a961fcfbdae
-
+https://github.com/user-attachments/assets/c4b00d80-35c5-4b85-8187-36a5c4b32fa1
